@@ -1,4 +1,4 @@
-package auth;
+package chap9.jaas;
 
 import java.security.PrivilegedAction;
 
